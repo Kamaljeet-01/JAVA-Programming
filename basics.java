@@ -37,8 +37,7 @@ public class basics{
         int num2=89;
         int sum=num1+num2;
         System.out.println(sum);
-
-            
+           
 //to give comments in a code we just simply use "//" for single line comment and " /*    ----multiline comments-----   star/ " for multiline comments.
 
 // To take input from user we have to import " java.util.* " and define a class--> scanner 
