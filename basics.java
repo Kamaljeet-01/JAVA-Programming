@@ -214,7 +214,3 @@ public class basics{
         System.out.println("sum is : " + sum1);
     }
 }
-
-
-
-
