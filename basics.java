@@ -13,7 +13,7 @@ public class basics{
 
         int a=5;                                            //integer value denoted by int
         int b=10;
-        int c=a*b;
+        int c=a+b;
         String name="Kamaljeet Yadav";                     //string value denoted by String with capital S
         System.out.println("product of a and b is : " + c);
         System.out.println(name);
