@@ -62,9 +62,6 @@ public class basics{
         Float area = 3.14f * rad * rad ;
         System.out.println(area);
 
-
-
-
         float pen = scn.nextFloat();
         float pencil = scn.nextFloat();
         float book = scn.nextFloat();
