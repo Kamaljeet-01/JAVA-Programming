@@ -4,7 +4,7 @@ import java.util.*;
 public class basics{
     public static void main(String args[]){
 
-        System.out.println("Hello World");                   // every line of code will be terminated by ; 
+        System.out.println("Hello World");                   // every line of code will be terminated by ;  symbol which denotes that this line ends here.
         System.out.println("# # # # ");
         System.out.println("# # # ");
         System.out.println("# # ");
