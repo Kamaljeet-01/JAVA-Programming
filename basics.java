@@ -1,4 +1,3 @@
-
 /*
 import java.util.*;
 public class basics{
@@ -179,8 +178,6 @@ public class basics{
         sum();
     }
 }
-
-
 // This is to create and call a function with some parameters.
 import java.util.*;
 public class basics{
@@ -188,7 +185,6 @@ public class basics{
         int sum = num1+num2;
         System.out.println("sum is : " + sum);
     }
-
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
