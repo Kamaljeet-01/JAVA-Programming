@@ -119,7 +119,7 @@ public class basics{
         else if(num1==num2 || num2==num3 || num1==num3){
             System.out.println("You have enter same number.");
         }
-// code for a simple calculator using switch method .
+// code for a simple calculator using switch Case .
 
         int num1 =scn.nextInt();
         int num2 =scn.nextInt();
