@@ -208,5 +208,6 @@ public class basics{
         int b = scn.nextInt();
         int sum1=sum(a,b);                                          // Here a,b are known as arguments or actual parameters.
         System.out.println("sum is : " + sum1);
+        System.out.println("Done!");
     }
 }
