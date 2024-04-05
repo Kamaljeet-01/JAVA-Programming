@@ -211,3 +211,15 @@ public class basics{
         System.out.println("Done!");
     }
 }
+
+
+//acummalator :
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        int[] arr = {2, 5, 7, 8, 2, 6, 9};
+        int sum = Arrays.stream(arr).sum();
+        System.out.println("The array sum is " + sum);
+    }
+}
