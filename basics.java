@@ -290,3 +290,21 @@ public class SimpleCalculator {
         scanner.close();
     }
 }
+
+
+public class Person {
+    // Properties
+    String name;
+    int age;
+    
+    // Constructor
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+    
+    // Method
+    public void introduce() {
+        System.out.println("Hello, my name is " + name + " and I am " + age + " years old.");
+    }
+}
