@@ -1,4 +1,4 @@
-/*
+
 import java.util.*;
 public class basics{
     public static void main(String args[]){
@@ -158,8 +158,6 @@ public class basics{
         System.out.println(rev);
     }
 }
-*/
-/*
 
 // This is how to create and call a function.
 
@@ -192,7 +190,7 @@ public class basics{
         sum(a,b);
     }
 }
-*/
+
 // agr yahi upr wala que. mein sum hamme return krke dosre variable mein store krke print krna ho to .
 
 import java.util.*;
